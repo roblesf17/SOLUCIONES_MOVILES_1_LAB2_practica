@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--- textos-->
+    <string name="txt_texto_0">Qualified Practice</string>
+    <string name="txt_texto_1">Enter text 1</string>
+    <string name="txt_texto_2">Enter text 2</string>
+    <string name="txt_texto_3">The same or unequal?</string>
+    <string name="txt_texto_4">Closed vowels of phrase 1?</string>
+    <string name="txt_texto_5">Closed vowels of phrase 2?</string>
+
+    <string name="frase_1_tiene">Phrase 1 has: </string>
+    <string name="frase_2_tiene">Phrase 2 has: </string>
+    <string name="vocales_cerradas"> closed vowels.</string>
+    <string name="ejecutandocomando"> Executing command ...</string>
+    <string name="frasesiguales"> The SI phrases are the same</string>
+    <string name="frasesnoiguales"> The phrases are NOT the same</string>
+    <string name="exitoso"> Commands executed successfully</string>
+    <string name="complete_campos"> Command not executed (Complete the fields)</string>
+    <!--- botones-->
+    <string name="txt_btn_resultado">Run</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Practica Calificada - lab 2</string>
+
+    <!--- textos-->
+    <string name="txt_texto_0">Practica Calificada</string>
+    <string name="txt_texto_1">Ingrese el texto 1</string>
+    <string name="txt_texto_2">Ingrese el texto 2</string>
+    <string name="txt_texto_3">¿Iguales o Desiguales?</string>
+    <string name="txt_texto_4">¿Vocales cerradas de frase 1?</string>
+    <string name="txt_texto_5">¿Vocales cerradas de frase 2?</string>
+
+    <string name="frase_1_tiene">Frase 1 tiene : </string>
+    <string name="frase_2_tiene">Frase 2 tiene : </string>
+    <string name="vocales_cerradas"> vocales cerradas .</string>
+    <string name="ejecutandocomando"> Ejecutando comando ...</string>
+    <string name="frasesiguales"> Las frases SI son iguales</string>
+    <string name="frasesnoiguales"> Las frases NO son iguales</string>
+    <string name="exitoso"> Comando ejecutado exitosamente</string>
+    <string name="complete_campos"> Comando no ejecutado (Complete los campos)</string>
+    <!--- botones-->
+    <string name="txt_btn_resultado">Ejecutar</string>
+
+</resources>
